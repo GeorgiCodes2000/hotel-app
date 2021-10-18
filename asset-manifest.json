@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hotel-app/static/css/main.d3abfd8d.chunk.css",
+    "main.js": "/hotel-app/static/js/main.c3a3d4b4.chunk.js",
+    "main.js.map": "/hotel-app/static/js/main.c3a3d4b4.chunk.js.map",
+    "runtime-main.js": "/hotel-app/static/js/runtime-main.6fe81d26.js",
+    "runtime-main.js.map": "/hotel-app/static/js/runtime-main.6fe81d26.js.map",
+    "static/js/2.e900935d.chunk.js": "/hotel-app/static/js/2.e900935d.chunk.js",
+    "static/js/2.e900935d.chunk.js.map": "/hotel-app/static/js/2.e900935d.chunk.js.map",
+    "static/js/3.ebe6c789.chunk.js": "/hotel-app/static/js/3.ebe6c789.chunk.js",
+    "static/js/3.ebe6c789.chunk.js.map": "/hotel-app/static/js/3.ebe6c789.chunk.js.map",
+    "index.html": "/hotel-app/index.html",
+    "static/css/main.d3abfd8d.chunk.css.map": "/hotel-app/static/css/main.d3abfd8d.chunk.css.map",
+    "static/js/2.e900935d.chunk.js.LICENSE.txt": "/hotel-app/static/js/2.e900935d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fe81d26.js",
+    "static/js/2.e900935d.chunk.js",
+    "static/css/main.d3abfd8d.chunk.css",
+    "static/js/main.c3a3d4b4.chunk.js"
+  ]
+}
